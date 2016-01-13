@@ -1,9 +1,7 @@
-sydjs.com
-=========
-
-## The SydJS Website.
+## The RCH EVENTS Website.
 
 Initially built in two and a half days by the team at [Thinkmill](http://www.thinkmill.com.au) as a demo of what [KeystoneJS](http://keystonejs.com) can do, it's now a showcase for the Sydney Javascript community.
+The original site was called SydJS website and can be found at [sydjs.com](http://www.sydjs.com/)
 
 ## Get Involved!
 
